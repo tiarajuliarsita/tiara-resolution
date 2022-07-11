@@ -3,7 +3,6 @@ tujuan
 
 planet mars
 planet jupiter
-planet saturnus
 planet uranus
-planet merkurius
 planet neptunus
+langsung ke matahari
